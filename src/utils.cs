@@ -9,3 +9,8 @@ public float multiple_numbers (int a, int b){
     float i = a * b;
     return(i);
 }
+
+public int add_numbers (int a, int b){
+    int i = a - b;
+    return(i);
+}
